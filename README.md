@@ -33,7 +33,7 @@ Para executar o projeto localmente, siga os passos abaixo:
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/joaovictorcardosocrisostomo/chemquiz.git](https://github.com/joaovictorcardosocrisostomo/chemquiz.git)
+    git clone https://github.com/joaovictorcardosocrisostomo/chemquiz.git
     ```
 
 2.  **Navegue até o diretório do projeto:**
