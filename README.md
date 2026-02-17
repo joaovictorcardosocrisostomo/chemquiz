@@ -57,5 +57,5 @@ A organização do código fonte segue a seguinte estrutura:
 ```text
 chemquiz/
 ├── banco_questoes.py    # Repositório de dados contendo as listas de dicionários
-├── chemquiz-poo.py          # Ponto de entrada e lógica principal (Classes Question e Gamequiz)
-└── README.md            # Documentação do projeto# chemquiz
+├── chemquiz-poo.py      # Ponto de entrada e lógica principal (Classes Question e Gamequiz)
+└── README.md            # Documentação do projeto
