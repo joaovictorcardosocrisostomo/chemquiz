@@ -47,7 +47,7 @@ Para executar o projeto localmente, siga os passos abaixo:
 
 4.  **Execute a aplicação:**
     ```bash
-    python chemquiz.py
+    python chemquiz-poo.py
     ```
 
 ## Estrutura de Arquivos
