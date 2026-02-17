@@ -25,7 +25,7 @@ O projeto segue uma arquitetura orientada a objetos simplificada, composta por d
 
 * **Linguagem:** Python 3.8 ou superior.
 * **Dependências:** Biblioteca padrão do Python (`random`).
-* **Sistema Operacional:** Compatível com Windows, Linux e macOS.
+* **Sistema Operacional:** Compatível com Windows, Linux, Termux (Android) e macOS.
 
 ## Instalação e Execução
 
@@ -33,7 +33,7 @@ Para executar o projeto localmente, siga os passos abaixo:
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/seu-usuario/chemquiz.git](https://github.com/seu-usuario/chemquiz.git)
+    git clone [https://github.com/joaovictorcardosocrisostomo/chemquiz.git](https://github.com/joaovictorcardosocrisostomo/chemquiz.git)
     ```
 
 2.  **Navegue até o diretório do projeto:**
@@ -42,7 +42,7 @@ Para executar o projeto localmente, siga os passos abaixo:
     ```
 
 3.  **Certifique-se de que os arquivos necessários estão presentes:**
-    * `chemquiz.py` (Script principal)
+    * `chemquiz-poo.py` (Script principal)
     * `banco_questoes.py` (Módulo de dados)
 
 4.  **Execute a aplicação:**
@@ -57,5 +57,5 @@ A organização do código fonte segue a seguinte estrutura:
 ```text
 chemquiz/
 ├── banco_questoes.py    # Repositório de dados contendo as listas de dicionários
-├── chemquiz.py          # Ponto de entrada e lógica principal (Classes Question e Gamequiz)
+├── chemquiz-poo.py          # Ponto de entrada e lógica principal (Classes Question e Gamequiz)
 └── README.md            # Documentação do projeto# chemquiz
